@@ -18,6 +18,8 @@ class Counter extends Component {
     // 修改文件
     //再次修改文件
     //再次修改2
+    //version v1.0
+    //version v2.0
  
     renderTags(){
         if( this.state.tags.length === 0 ) return <p>There are no tags!</p>
